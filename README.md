@@ -1,25 +1,25 @@
 # 👋 Hi, I'm Labade Raphael – Full-Stack Web Developer
 
-I’m a passionate and job-ready **Full-Stack Developer** focused on building modern, scalable, and user-friendly web applications. I specialize in JavaScript/TypeScript ecosystems and love bringing ideas to life through clean, functional code.
+I’m a passionate and job-ready problem solving **Full-Stack Developer** focused on building modern, scalable, and user-friendly web applications. I specialize in JavaScript/TypeScript/Nestjs ecosystems and love bringing ideas to life through clean, functional code.
 
 ---
 
 ### 🚀 Tech Stack
 
-- **Frontend**: Next.js, React, TypeScript, Bootstrap, MUI,Tailwind CSS, Framer Motion  
-- **Backend**: NestJS, Node.js, Express.js  
-- **Database**: MongoDB, Mongoose,
+- **Frontend**: Next.js, React, TypeScript, MUI, Bootstrap,Tailwind CSS, CSS, HTML,Framer Motion, AOS
+- **Backend**: NestJS, Node.js, Express.js, Javascript  
+- **Database**: MongoDB, Mongoose, Postgress,Prisma
 - **Authentication**: Clerk, JWT, OAuth  
 - **State Management**: Redux Toolkit, Zustand  
 - **Others**: Git, Postman, REST APIs  
 
-🛠️ Currently exploring: **TypeORM**, **SQL**, and **UI/UX Design**
+🛠️ Currently exploring: **PRISMA**, **SQL**, and **SVELTE**
 
 ---
 
 ### 💼 What I’m Working On
 
-- **Social Media Platform** – built with Next.js, NestJS, and MongoDB, featuring real-time auth and post interaction  
+- **Social Media Platform** – built with Next.js, NestJS, and Postgress, featuring real-time auth and post interaction  
 - **Food Delivery Dashboard** – with full CRUD, role-based access (admin, restaurant, user), and analytics  
 
 ---
