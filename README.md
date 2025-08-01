@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Labade Raphael – Full-Stack Web Developer
 
-I’m a passionate and job-ready problem solving **Full-Stack Developer** focused on building modern, scalable, and user-friendly web applications. I specialize in JavaScript/TypeScript/Nestjs ecosystems and love bringing ideas to life through clean, functional code.
+I’m a passionate and job-ready problem solving **Full-Stack Developer** focused on building modern, scalable, and user-friendly web applications. I specialize in JavaScript/Nodejs/Nestjs ecosystems and love bringing ideas to life through clean, functional code.
 
 ---
 
@@ -13,7 +13,7 @@ I’m a passionate and job-ready problem solving **Full-Stack Developer** focuse
 - **State Management**: Redux Toolkit, Zustand  
 - **Others**: Git, Postman, REST APIs  
 
-🛠️ Currently exploring: **PRISMA**, **SQL**, and **SVELTE**
+🛠️ Currently exploring: **PRISMA**, **SQL**, and **ANGULAR**
 
 ---
 
